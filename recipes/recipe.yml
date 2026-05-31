@@ -32,5 +32,3 @@ modules:
           - io.github.qtox.qTox
           - chat.delta.desktop
       - scope: user
-
-  - type: signing
