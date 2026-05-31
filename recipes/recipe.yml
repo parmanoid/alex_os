@@ -30,6 +30,7 @@ modules:
           - com.valvesoftware.Steam
           - io.github.kolunmi.Bazaar
           - io.github.qtox.qTox
+          - chat.delta.desktop
       - scope: user
 
   - type: signing
