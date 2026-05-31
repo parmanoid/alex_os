@@ -1,0 +1,29 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "phobian@tutanota.com",
+                "Name": "Mark Whittaker"
+            }
+        ],
+        "Category": "Plasma Look And Feel",
+        "Description": "Kinda Royale",
+        "EnabledByDefault": true,
+        "Id": "org.magpie.exblue.desktop",
+        "License": "GPL-2.0+",
+        "Name": "Expose Blue",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "2.3",
+        "Website": "https://www.pling.com/u/phob1an/"
+    },
+    "X-KPackage-Dependencies": [
+    "kns://aurorae.knsrc/api.kde-look.org/2140863",
+    "kns://colorschemes.knsrc/api.kde-look.org/1553515",
+    "kns://plasma-themes.knsrc/api.kde-look.org/1627056",
+    "kns://wallpaper.knsrc/api.kde-look.org/1552727",
+    "kns://sddmtheme.knsrc/api.kde-look.org/1556320"
+    ]
+}
