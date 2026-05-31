@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Init AlexOS Containers
-Exec=/usr/bin/init-containers.sh
-Hidden=false
-NoDisplay=true
-X-KDE-Autostart-Script=true
