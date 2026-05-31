@@ -17,6 +17,7 @@ modules:
         - distrobox
         - git
         - python3-pyqt6
+        - python3-pip
         - fastfetch
         - wine
 
@@ -28,6 +29,7 @@ modules:
           - com.google.Chrome
           - com.valvesoftware.Steam
           - io.github.kolunmi.Bazaar
+          - io.github.qtox.qTox
       - scope: user
 
   - type: signing
