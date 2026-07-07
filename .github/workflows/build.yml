@@ -19,7 +19,7 @@ jobs:
         uses: hastd/free-disk-space@main
 
       - name: Build Image
-        uses: blue-build/github-action@v1.11
+        uses: blue-build/github-action@v1.12
         with:
           recipe: 'recipe.yml'
           build_opts: '--no-sign'
